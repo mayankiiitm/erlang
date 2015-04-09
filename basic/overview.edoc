@@ -1,0 +1,7 @@
+@author Mayank Kumar <mayank@engrami.com> [http://engrami.com]
+@doc Functions calculating velocities achieved by objects
+dropped in a vacuum.
+@reference from <a href= "http://shop.oreilly.com/product/0636920025818.do" >Introducing Erlang</a>,
+O'Reilly Media, Inc., 2012.
+@copyright 2012 by Mayank Kumar
+@version 0.1
